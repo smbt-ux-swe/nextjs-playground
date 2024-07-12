@@ -9,7 +9,7 @@ export default function ProductsPage() {
           <li>scarf</li>
         </Link>
         <Link href="/products/necklass">
-          <li>necklass</li>
+          <li>Jeans</li>
         </Link>
       </ul>
     </>
